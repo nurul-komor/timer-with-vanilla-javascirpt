@@ -10,7 +10,6 @@
 <p>Note: please change class name carefully (if you want to change)</p>
 <b>If it's not working then please let me know in my social account below</b>
 
-</style>
 #Social media account
 <img style="width:18px" src="icons/github.svg"> github account </br>
 <img style="width:18px" src="icons/linkedin.svg"> Linkedin </br>
