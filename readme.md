@@ -1,4 +1,4 @@
-###setup
+# setup
 
 <b>before editing anythings in dist</b>
 
@@ -10,12 +10,12 @@
 <p>Note: please change class name carefully (if you want to change)</p>
 <b>If it's not working then please let me know in my social account below</b>
 
-#Social media account
+# Social media account
 <img style="width:18px" src="icons/github.svg"> github account </br>
 <img style="width:18px" src="icons/linkedin.svg"> Linkedin </br>
 
 
-#technologies
+# technologies
 <img style="width:18px" src="icons/css3.svg"> Html
 <img style="width:18px" src="icons/html5.svg"> CSS
 <img style="width:18px" src="icons/javascript.svg"> JavaScript
