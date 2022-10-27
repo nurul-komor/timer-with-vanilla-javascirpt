@@ -9,18 +9,15 @@
 <p>Stop:5: Save and go to browser and check </p>
 <p>Note: please change class name carefully (if you want to change)</p>
 <b>If it's not working then please let me know in my social account below</b>
-<style>
-    .readme-icon {
-        width: 18px;
-    }
+
 </style>
 #Social media account
-<img class="readme-icon" src="icons/github.svg"> github account </br>
-<img class="readme-icon" src="icons/linkedin.svg"> Linkedin </br>
+<img style="width:18px" src="icons/github.svg"> github account </br>
+<img style="width:18px" src="icons/linkedin.svg"> Linkedin </br>
 
 
 #technologies
-<img class="readme-icon" src="icons/css3.svg"> Html
-<img class="readme-icon" src="icons/html5.svg"> CSS
-<img class="readme-icon" src="icons/javascript.svg"> JavaScript
-<img class="readme-icon" src="icons/html5.svg"> Bootstrap
+<img style="width:18px" src="icons/css3.svg"> Html
+<img style="width:18px" src="icons/html5.svg"> CSS
+<img style="width:18px" src="icons/javascript.svg"> JavaScript
+<img style="width:18px" src="icons/html5.svg"> Bootstrap
