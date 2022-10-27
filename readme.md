@@ -10,11 +10,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/network/members]
-[![Stargazers][stars-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/network/members/stargazersl]
-[![Issues][issues-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/issues]
-[![MIT License][license-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/issues]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/nurul-komor-4403981bb/]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
