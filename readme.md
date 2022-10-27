@@ -1,4 +1,4 @@
-#setup
+###setup
 
 <b>before editing anythings in dist</b>
 
