@@ -19,4 +19,4 @@
 <img style="width:18px" src="icons/css3.svg"> Html
 <img style="width:18px" src="icons/html5.svg"> CSS
 <img style="width:18px" src="icons/javascript.svg"> JavaScript
-<img style="width:18px" src="icons/Bootstrap_logo.svg"> Bootstrap
+<img style="width:18px" src="icons/Bootstrap_logo.png"> Bootstrap
