@@ -1,6 +1,6 @@
 # setup
 
-<b>before editing anythings in dist</b>
+<b>before editing anythings in dist folder</b>
 
 <p>Stop:1: Watch dist folder all the code has been given there</p>
 <p>Stop:2: Go to script.js and go to line number: 14</p>
