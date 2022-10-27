@@ -11,8 +11,8 @@
 <b>If it's not working then please let me know in my social account below</b>
 
 # Social media account
-<img style="width:18px" src="icons/github.svg"> github account </br>
-<img style="width:18px" src="icons/linkedin.svg"> Linkedin </br>
+<a href="https://github.com/nurul-komor"><img style="width:18px" src="icons/linkedin.svg"> Linkedin</a> </br>
+<a href="https://www.linkedin.com/in/nurul-komor-4403981bb/"><img style="width:18px" src="icons/github.svg"> github account</a> </br>
 
 
 # technologies
