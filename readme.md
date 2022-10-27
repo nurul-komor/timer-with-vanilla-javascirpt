@@ -9,7 +9,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][nurul-komor]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/network/members]
 [![Stargazers][stars-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/network/members/stargazersl]
 [![Issues][issues-shield]][https://github.com/nurul-komor/timer-with-vanilla-javascirpt/issues]
